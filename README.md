@@ -30,3 +30,5 @@ Citation generation'APA and IEEE formatting,Reference management,AI,plagiarism s
 Author:Khanzada Bilal,PhD Scholar, Department of Pharmacy,The Women University Multan, Pakistan.
 https://ai-research-proposal-x78q.bolt.host/dashboard
 <img width="1080" height="2400" alt="1000419940" src="https://github.com/user-attachments/assets/4270ec4d-044d-4041-9198-593397b242f9" />
+GitHub Repository:
+https://github.com/khanzadawum11-beep/AI-research-proposal-app<img width="1080" height="2400" alt="1000419937" src="https://github.com/user-attachments/assets/75927eb1-cf88-476f-8491-df046457ef28" />
