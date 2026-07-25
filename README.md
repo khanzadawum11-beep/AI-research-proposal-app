@@ -32,3 +32,7 @@ https://ai-research-proposal-x78q.bolt.host/dashboard
 <img width="1080" height="2400" alt="1000419940" src="https://github.com/user-attachments/assets/4270ec4d-044d-4041-9198-593397b242f9" />
 GitHub Repository:
 https://github.com/khanzadawum11-beep/AI-research-proposal-app<img width="1080" height="2400" alt="1000419937" src="https://github.com/user-attachments/assets/75927eb1-cf88-476f-8491-df046457ef28" />
+How to Run:git clone https://github.com/khanzadawum11-beep/AI-research-proposal-app
+cd AI-research-proposal-app
+npm install
+npm run dev
